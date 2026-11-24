@@ -86,7 +86,7 @@ Developed 15+ scalable REST APIs using Java, Spring Boot, and SQL for product, i
 
 - 🌐 Portfolio: https://new-portfolio-ivory-pi.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
-- 🧠 LeetCode: https://leetcode.com/u/rajSunny5714
+- 🧠 LeetCode: https://leetcode.com/u/rjSunny1309
 - 📧 Email: sunnyraj13094@gmail.com
 
 ---
